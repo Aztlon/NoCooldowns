@@ -1,0 +1,6 @@
+name: NoCooldowns
+author: Aztl
+api-version: 1.16
+version: 1.0.0
+main: me.aztl.nocooldowns.NoCooldowns
+depend: [ProjectKorra]
